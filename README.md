@@ -7,7 +7,7 @@ Working from the publication:
 
 by:
 
-Andrew MillerI, Sujee Jeyapalina, Jay Agarwal, Mitchell Mansel, James Peter Beck
+Andrew Miller, Sujee Jeyapalina, Jay Agarwal, Mitchell Mansel, James Peter Beck
 
 published in:
 
