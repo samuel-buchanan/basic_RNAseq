@@ -28,3 +28,5 @@ Trimming 	  -> alignment -> counting    -> diff. expression
 Trimmomatic -> STAR      -> HTSeq UNION -> Deseq2
 
 I ended up doing things a little differently than in the final paper. They did surrogate variable analysis where I did plain differential expression, comparing the pre-surgery timepoint to the post-surgery one for every patient. I was able to find several of the same genes they point out in their paper, many having to do with inflammatory processes.
+
+I used my school's computing cluster as well as RStudio for the DESeq2 analysis.
